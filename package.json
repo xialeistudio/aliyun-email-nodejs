@@ -1,5 +1,5 @@
 {
-  "name": "aliyun-email-nodejs",
+  "name": "@xialeistudio/aliyun-email",
   "version": "1.0.0",
   "description": "aliyun email nodejs sdk, developed by typescript.",
   "main": "index.js",
