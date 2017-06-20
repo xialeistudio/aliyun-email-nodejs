@@ -149,7 +149,7 @@ export class AliyunEmail {
      */
     public async singleSend(toAddress: string, subject: string, body: string, isHtml: boolean = true): Promise<Response> {
         let options: RequestOptions = {
-            Action: 'SingleSendMail ',
+            Action: 'SingleSendMail',
             ToAddress: toAddress,
             Subject: subject,
         };

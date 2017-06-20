@@ -149,7 +149,7 @@ var AliyunEmail = (function () {
                 switch (_a.label) {
                     case 0:
                         options = {
-                            Action: 'SingleSendMail ',
+                            Action: 'SingleSendMail',
                             ToAddress: toAddress,
                             Subject: subject,
                         };
